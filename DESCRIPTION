@@ -1,0 +1,13 @@
+Package: ConnUtilities
+Title: Utility Functions for R
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Daniel",
+           family = "Conn",
+           role = c("aut", "cre"),
+           email = "djconn17@gmail.com")
+Description: The package mostly contains utility functions that I find myself having to redefine in multiple scripts.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0)
