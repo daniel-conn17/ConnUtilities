@@ -3,6 +3,7 @@
 export(gg_text_size)
 export(hh)
 export(ll)
+export(myexpand.grid)
 export(ss)
 export(tidyr_gather_help)
 export(uu)
